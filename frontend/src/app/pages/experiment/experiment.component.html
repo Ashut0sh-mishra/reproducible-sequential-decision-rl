@@ -1,0 +1,67 @@
+<div class="experiment-wrapper">
+  <div class="experiment-card">
+
+    <h2>📊 Experiment Results</h2>
+    <p class="subtitle">
+      Enter an Experiment ID to fetch its RL training results.
+    </p>
+
+    <!-- INPUT -->
+    <div class="input-row">
+      <input
+        type="text"
+        placeholder="Enter Experiment ID..."
+        [(ngModel)]="expId"
+      />
+
+      <button class="btn-load" (click)="loadResults()">
+        🔍 Load Results
+      </button>
+    </div>
+
+    <!-- LOADING + PROGRESS -->
+    <div class="loading" *ngIf="loading">
+      ⏳ Training in progress...
+
+      <!-- PROGRESS BAR -->
+      <div class="progress-bar">
+        <div
+          class="progress-fill"
+          [style.width.%]="progress">
+          {{ progress }}%
+        </div>
+      </div>
+
+      <!-- CANCEL BUTTON -->
+      <button class="btn-cancel" (click)="cancelTraining()">
+        ❌ Cancel Training
+      </button>
+    </div>
+
+    <!-- ERROR -->
+    <div class="error-box" *ngIf="error">
+      ❌ {{ error }}
+    </div>
+
+    <!-- SUMMARY -->
+    <div class="result-summary" *ngIf="results && !loading">
+      <h3>📝 Summary</h3>
+
+      <p><strong>Status:</strong> {{ results.state }}</p>
+
+      <p *ngIf="results.result?.metrics?.reward">
+        <strong>Reward:</strong> {{ results.result.metrics.reward }}
+      </p>
+
+      <p *ngIf="results.result?.metrics?.episodes">
+        <strong>Episodes:</strong> {{ results.result.metrics.episodes }}
+      </p>
+    </div>
+
+    <!-- RAW JSON -->
+    <pre class="json-box" *ngIf="results && !loading">
+{{ results | json }}
+    </pre>
+
+  </div>
+</div>

@@ -1,0 +1,38 @@
+# ======================
+# Python
+# ======================
+.venv/
+__pycache__/
+*.pyc
+
+# ======================
+# Jupyter
+# ======================
+.ipynb_checkpoints/
+
+# ======================
+# Results (KEEP STRUCTURE, NOT DATA)
+# ======================
+results/*
+!results/.gitkeep
+!results/**/
+
+# ======================
+# Experiments / logs
+# ======================
+experiments/*
+reports/*
+logs/*
+
+# ======================
+# Models (DO NOT PUSH TRAINED WEIGHTS)
+# ======================
+*.zip
+*.pt
+*.pth
+
+# ======================
+# OS
+# ======================
+.DS_Store
+Thumbs.db

@@ -1,0 +1,82 @@
+<div class="page-card">
+
+  <h2>📤 Upload Price Dataset</h2>
+  <p class="subtitle">Upload CSV or XLSX containing price/time data.</p>
+
+  <input type="file" (change)="onFileSelected($event)" />
+
+  <button class="btn" (click)="upload()" [disabled]="!selectedFile">
+    Upload
+  </button>
+
+  <!-- Progress -->
+  <div *ngIf="progress > 0" class="progress-box">
+    Uploading: {{ progress }}%
+  </div>
+
+  <!-- Uploaded File Details -->
+  <div class="uploaded-info" *ngIf="uploadedInfo">
+    <h3>✅ File Uploaded Successfully</h3>
+
+    <p><strong>ID:</strong> {{ uploadedInfo.id }}</p>
+    <p><strong>Filename:</strong> {{ uploadedInfo.filename }}</p>
+    <p><strong>Size:</strong> {{ uploadedInfo.size }} bytes</p>
+    <p><strong>Uploaded At:</strong> {{ uploadedInfo.uploaded_at }}</p>
+    <p><strong>Total Rows:</strong> {{ uploadedInfo.rows }}</p>
+
+    <p><strong>Columns:</strong></p>
+    <ul>
+      <li *ngFor="let col of uploadedInfo.columns">{{ col }}</li>
+    </ul>
+  </div>
+
+  <p class="msg" *ngIf="message">{{ message }}</p>
+
+  <hr>
+
+  <!-- List all uploaded files -->
+  <h3>📁 Uploaded Files</h3>
+
+  <!-- <table class="file-table" *ngIf="files.length > 0">
+    <thead>
+      <tr>
+        <th>ID</th>
+        <th>Filename</th>
+        <th>Size</th>
+        <th>Uploaded</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let f of files">
+        <td>{{ f.id }}</td>
+        <td>{{ f.filename }}</td>
+        <td>{{ f.size }} bytes</td>
+        <td>{{ f.uploaded_at }}</td>
+      </tr>
+    </tbody>
+  </table> -->
+
+  <button class="load-btn" (click)="loadFiles()">
+  📂 Load Uploaded Files
+</button>
+
+<div class="file-list" *ngIf="uploadedFiles.length > 0">
+  <h3>📁 Uploaded Files</h3>
+
+  <ul>
+    <li *ngFor="let file of uploadedFiles">
+      <strong>{{ file.filename }}</strong>
+      <br />
+      Size: {{ file.size }} bytes
+      <br />
+      Uploaded at: {{ file.uploaded_at }}
+    </li>
+  </ul>
+</div>
+
+<p *ngIf="uploadedFiles.length === 0">
+  No files uploaded yet.
+</p>
+
+
+</div>

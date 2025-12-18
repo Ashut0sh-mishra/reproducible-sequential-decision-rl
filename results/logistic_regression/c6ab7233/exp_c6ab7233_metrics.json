@@ -1,0 +1,4018 @@
+{
+  "episodes": [
+    {
+      "episode": 0,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 1,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 2,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 3,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 4,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 5,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 6,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 7,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 8,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 9,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 10,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 11,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 12,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 13,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 14,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 15,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 16,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 17,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 18,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 19,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 20,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 21,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 22,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 23,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 24,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 25,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 26,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 27,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 28,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 29,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 30,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 31,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 32,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 33,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 34,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 35,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 36,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 37,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 38,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 39,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 40,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 41,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 42,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 43,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 44,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 45,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 46,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 47,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 48,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 49,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 50,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 51,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 52,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 53,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 54,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 55,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 56,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 57,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 58,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 59,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 60,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 61,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 62,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 63,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 64,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 65,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 66,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 67,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 68,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 69,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 70,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 71,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 72,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 73,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 74,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 75,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 76,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 77,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 78,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 79,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 80,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 81,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 82,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 83,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 84,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 85,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 86,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 87,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 88,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 89,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 90,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 91,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 92,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 93,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 94,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 95,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 96,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 97,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 98,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 99,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 100,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 101,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 102,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 103,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 104,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 105,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 106,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 107,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 108,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 109,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 110,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 111,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 112,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 113,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 114,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 115,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 116,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 117,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 118,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 119,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 120,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 121,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 122,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 123,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 124,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 125,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 126,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 127,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 128,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 129,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 130,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 131,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 132,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 133,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 134,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 135,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 136,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 137,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 138,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 139,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 140,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 141,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 142,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 143,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 144,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 145,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 146,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 147,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 148,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 149,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 150,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 151,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 152,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 153,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 154,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 155,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 156,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 157,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 158,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 159,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 160,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 161,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 162,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 163,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 164,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 165,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 166,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 167,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 168,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 169,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 170,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 171,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 172,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 173,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 174,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 175,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 176,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 177,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 178,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 179,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 180,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 181,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 182,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 183,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 184,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 185,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 186,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 187,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 188,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 189,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 190,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 191,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 192,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 193,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 194,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 195,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 196,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 197,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 198,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 199,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 200,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 201,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 202,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 203,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 204,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 205,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 206,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 207,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 208,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 209,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 210,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 211,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 212,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 213,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 214,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 215,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 216,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 217,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 218,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 219,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 220,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 221,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 222,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 223,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 224,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 225,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 226,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 227,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 228,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 229,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 230,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 231,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 232,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 233,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 234,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 235,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 236,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 237,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 238,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 239,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 240,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 241,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 242,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 243,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 244,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 245,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 246,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 247,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 248,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 249,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 250,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 251,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 252,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 253,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 254,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 255,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 256,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 257,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 258,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 259,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 260,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 261,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 262,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 263,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 264,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 265,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 266,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 267,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 268,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 269,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 270,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 271,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 272,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 273,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 274,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 275,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 276,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 277,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 278,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 279,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 280,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 281,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 282,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 283,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 284,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 285,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 286,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 287,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 288,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 289,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 290,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 291,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 292,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 293,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 294,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 295,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 296,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 297,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 298,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 299,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 300,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 301,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 302,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 303,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 304,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 305,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 306,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 307,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 308,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 309,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 310,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 311,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 312,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 313,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 314,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 315,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 316,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 317,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 318,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 319,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 320,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 321,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 322,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 323,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 324,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 325,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 326,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 327,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 328,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 329,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 330,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 331,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 332,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 333,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 334,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 335,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 336,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 337,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 338,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 339,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 340,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 341,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 342,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 343,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 344,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 345,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 346,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 347,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 348,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 349,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 350,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 351,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 352,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 353,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 354,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 355,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 356,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 357,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 358,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 359,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 360,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 361,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 362,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 363,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 364,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 365,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 366,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 367,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 368,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 369,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 370,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 371,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 372,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 373,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 374,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 375,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 376,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 377,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 378,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 379,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 380,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 381,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 382,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 383,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 384,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 385,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 386,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 387,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 388,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 389,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 390,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 391,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 392,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 393,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 394,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 395,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 396,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 397,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 398,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 399,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 400,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 401,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 402,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 403,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 404,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 405,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 406,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 407,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 408,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 409,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 410,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 411,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 412,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 413,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 414,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 415,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 416,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 417,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 418,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 419,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 420,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 421,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 422,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 423,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 424,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 425,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 426,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 427,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 428,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 429,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 430,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 431,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 432,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 433,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 434,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 435,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 436,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 437,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 438,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 439,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 440,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 441,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 442,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 443,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 444,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 445,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 446,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 447,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 448,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 449,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 450,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 451,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 452,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 453,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 454,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 455,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 456,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 457,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 458,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 459,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 460,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 461,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 462,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 463,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 464,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 465,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 466,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 467,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 468,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 469,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 470,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 471,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 472,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 473,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 474,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 475,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 476,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 477,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 478,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 479,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 480,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 481,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 482,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 483,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 484,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 485,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 486,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 487,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 488,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 489,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 490,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 491,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 492,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 493,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 494,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 495,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 496,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 497,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 498,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    },
+    {
+      "episode": 499,
+      "total_reward": -148353.14,
+      "num_steps": 719,
+      "avg_reward_per_step": -206.33,
+      "model": "logistic_regression",
+      "seed": 123
+    }
+  ],
+  "statistics": {
+    "mean_reward": -148353.14,
+    "std_reward": 0.0,
+    "min_reward": -148353.14,
+    "max_reward": -148353.14,
+    "median_reward": -148353.14
+  },
+  "classification_metrics": {
+    "accuracy": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0
+  },
+  "success_rate": 0.0
+}

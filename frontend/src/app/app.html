@@ -1,0 +1,20 @@
+<div class="layout">
+
+  <!-- NAVBAR -->
+  <nav class="navbar">
+    <div class="logo">⚡ Battery RL</div>
+
+    <div class="links">
+      <a routerLink="/" routerLinkActive="active" [routerLinkActiveOptions]="{ exact: true }">Upload</a>
+      <a routerLink="/dashboard" routerLinkActive="active">Dashboard</a>
+      <a routerLink="/experiment" routerLinkActive="active">Experiment</a>
+      <a routerLink="/control" routerLinkActive="active">Control Panel</a>
+    </div>
+  </nav>
+
+  <!-- CONTENT AREA -->
+  <main class="content">
+    <router-outlet></router-outlet>
+  </main>
+
+</div>

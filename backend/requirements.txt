@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+celery
+redis
+pydantic
+pydantic-settings
+sqlalchemy
+pandas
+numpy
+stable-baselines3
+gymnasium
+scikit-learn
+python-multipart
+requests
+flower==1.2.0

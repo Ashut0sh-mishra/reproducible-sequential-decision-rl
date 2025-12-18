@@ -1,0 +1,102 @@
+.page-card {
+  max-width: 520px;
+  margin: 40px auto;
+  background: #ffffff;
+  padding: 32px;
+  border-radius: 12px;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.05);
+  text-align: center;
+}
+
+.subtitle {
+  color: #666;
+  margin-bottom: 20px;
+}
+
+.progress-box {
+  margin-top: 12px;
+  font-weight: bold;
+  color: #0066ff;
+}
+
+.uploaded-info {
+  margin-top: 20px;
+  background: #eef5ff;
+  padding: 16px;
+  border-radius: 10px;
+  text-align: left;
+}
+
+.file-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+.file-table th,
+.file-table td {
+  padding: 8px;
+  border-bottom: 1px solid #eee;
+}
+
+.btn {
+  width: 100%;
+  padding: 12px;
+  background: #0066ff;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  margin-top: 12px;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background: #0050cc;
+}
+
+/* Hide the default ugly file input */
+.file-upload input {
+  display: none;
+}
+
+/* Custom Choose File Button */
+.file-upload {
+  display: inline-block;
+  padding: 12px 20px;
+  background: #f0f4ff;
+  color: #0056ff;
+  border: 2px dashed #7aa5ff;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 15px;
+  font-weight: 600;
+  transition: 0.2s;
+  margin-bottom: 10px;
+}
+
+.file-upload:hover {
+  background: #e3ecff;
+  border-color: #0056ff;
+}
+
+/* File name display */
+.file-name {
+  margin-top: 8px;
+  font-size: 14px;
+  color: #333;
+  font-style: italic;
+}
+
+.load-btn {
+  margin-top: 15px;
+  padding: 10px 14px;
+  border-radius: 8px;
+  background: #2563eb;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.file-list {
+  margin-top: 20px;
+}

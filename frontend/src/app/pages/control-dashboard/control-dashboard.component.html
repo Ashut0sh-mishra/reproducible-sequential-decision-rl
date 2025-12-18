@@ -1,0 +1,42 @@
+<div class="page-card wide">
+  <h2>🛠 System Control Panel</h2>
+
+  <div class="service-grid">
+
+    <div class="service-card">
+      <h3>FastAPI Backend</h3>
+      <span [class.ok]="status.fastapi" [class.bad]="!status.fastapi">
+        ● {{ status.fastapi ? 'Running' : 'Stopped' }}
+      </span>
+    </div>
+
+    <div class="service-card">
+      <h3>Celery Worker</h3>
+      <span [class.ok]="status.celery" [class.bad]="!status.celery">
+        ● {{ status.celery ? 'Running' : 'Stopped' }}
+      </span>
+
+      <ul *ngIf="status.workers?.length">
+        <li *ngFor="let w of status.workers">{{ w }}</li>
+      </ul>
+    </div>
+
+    <div class="service-card">
+      <h3>Flower Dashboard</h3>
+      <span [class.ok]="status.flower" [class.bad]="!status.flower">
+        ● {{ status.flower ? 'Running' : 'Stopped' }}
+      </span>
+    </div>
+
+  </div>
+
+  <div class="buttons">
+    <button class="btn-control start" (click)="startCelery()">
+      ▶ Start Celery
+    </button>
+
+    <button class="btn-control stop" (click)="stopCelery()">
+      ■ Stop Celery
+    </button>
+  </div>
+</div>

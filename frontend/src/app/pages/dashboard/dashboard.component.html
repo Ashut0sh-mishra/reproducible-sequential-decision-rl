@@ -1,0 +1,16 @@
+<div class="page-card wide">
+  <h2>⚡ Train RL Model</h2>
+  <p class="subtitle">Configure the training parameters and start reinforcement learning.</p>
+
+  <label>Degradation Cost</label>
+  <input type="number" [(ngModel)]="degradationCost">
+
+  <label>Training Timesteps</label>
+  <input type="number" [(ngModel)]="timesteps">
+
+  <button class="btn" (click)="startTraining()">Start Training 🚀</button>
+
+  <p class="msg" *ngIf="taskId">
+    Training Started → Task ID: <b>{{ taskId }}</b>
+  </p>
+</div>

@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+seaborn
+gymnasium
+torch
+stable-baselines3[extra]
+scikit-learn
+cvxpy
+tqdm
