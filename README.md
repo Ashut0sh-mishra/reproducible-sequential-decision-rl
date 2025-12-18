@@ -25,19 +25,19 @@ To what extent do reinforcement learning policies improve upon heuristic and sta
 ```
 ┌─────────────────────────────────────────────────┐
 │ Models                                          │
-│ • Rule-based (heuristic)                         │
-│ • Random baseline                                │
-│ • Logistic regression                            │
-│ • Random forest                                  │
-│ • DQN/PPO (deep RL, trained offline)             │
+│ • Rule-based (heuristic)                        │
+│ • Random baseline                               │
+│ • Logistic regression                           │
+│ • Random forest                                 │
+│ • DQN/PPO (deep RL, trained offline)            │
 └────────────────┬────────────────────────────────┘
                  │
                  ▼
 ┌─────────────────────────────────────────────────┐
-│ Deterministic experiment runner                  │
+│ Deterministic experiment runner                 │
 │ • Fixed seeds (numpy, random, torch, CUDA)      │
 │ • Episodic evaluation (preserved count per run) │
-│ • Complete step-level logging                    │
+│ • Complete step-level logging                   │
 │ • All randomness documented in config           │
 └────────────────┬────────────────────────────────┘
                  │
@@ -60,7 +60,7 @@ To what extent do reinforcement learning policies improve upon heuristic and sta
                  ▼
 ┌─────────────────────────────────────────────────┐
 │ Optional UI (read-only)                         │
-│ • File-based inspection only                     │
+│ • File-based inspection only                    │
 │ • Does not contribute to experimental results   │
 └─────────────────────────────────────────────────┘
 ```
